@@ -23,7 +23,7 @@ ScriptHookV DotNetを使用しており、バージョンは3.6.0で開発して
 ## インストール
 以下から各種ファイルをダウンロードし、スクリプトMod本体はScriptsフォルダに、前提条件のファイルはGTA5.exeと同じフォルダにコピーしてください。
 
-| [GTAV_Watermark](https://github.com/QuestDragon/GTAV_Watermark/releases/latest/download/GTAV_Watermark.zip) | [ScriptHookV](http://dev-c.com/gtav/scripthookv/) | [ScriptHookV DotNet](https://github.com/scripthookvdotnet/scripthookvdotnet/releases/latest) |
+| [GTA_Watermark](https://github.com/QuestDragon/GTAV_Watermark/releases/latest/download/GTA_Watermark.zip) | [ScriptHookV](http://dev-c.com/gtav/scripthookv/) | [ScriptHookV DotNet](https://github.com/scripthookvdotnet/scripthookvdotnet/releases/latest) |
 | ------------- | ------------- | ------------- | 
 
 ## 各種設定
